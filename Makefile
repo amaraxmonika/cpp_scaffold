@@ -1,6 +1,6 @@
 ## This is my attempt to make a minimal comprehensive makefile
 ## that could be used to start a large project. This will build
-## your project and generate a minimal linux package.
+## your project and generate a minimal debian package.
 
 PROJECT_NAME := "your_project"
 
