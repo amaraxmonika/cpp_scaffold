@@ -1,0 +1,8 @@
+Package: yourproject
+Version: 1.0-0
+Section: base
+Priority: optional
+Architecture: armhf
+Depends: supervisor
+Maintainer: Chasen Johnson <thechasenjohnson@gmail.com>
+Description: your software description here...
